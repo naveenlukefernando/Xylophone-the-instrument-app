@@ -17,53 +17,83 @@
         <Button
             android:id="@+id/playC"
             android:layout_width="match_parent"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:background="#c0392b"
             android:text="" />
 
         <Button
             android:id="@+id/playD"
             android:layout_width="match_parent"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="#e67e22"
             android:text="" />
 
         <Button
             android:id="@+id/playE"
             android:layout_width="match_parent"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp" />
+            android:layout_marginRight="20dp"
+            android:background="#f39c12"
+            android:layout_marginTop="10dp" />
 
         <Button
             android:id="@+id/playF"
             android:layout_width="match_parent"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp" />
+            android:layout_marginRight="30dp"
+            android:background="#27ae60"
+            android:layout_marginTop="10dp" />
 
         <Button
             android:id="@+id/playG"
             android:layout_width="match_parent"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="40dp"
-            android:layout_marginRight="40dp" />
+            android:background="#16a085"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="10dp" />
 
         <Button
             android:id="@+id/playA"
             android:layout_width="match_parent"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="50dp"
-            android:layout_marginRight="50dp" />
+            android:background="#2980b9"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="10dp" />
 
         <Button
             android:id="@+id/playB"
             android:layout_width="match_parent"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="60dp"
-            android:layout_marginRight="60dp" />
+            android:background="#2980b9"
+            android:layout_marginRight="60dp"
+            android:layout_marginTop="10dp" />
+
+        <Button
+            android:id="@+id/playC_last"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:background="#2980b9"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:id="@+id/credit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Test app by Naveen Luke" />
     </LinearLayout>
 
 
