@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Xylophone</string>
+    <string name="splash_name">සයිලොෆෝනය </string>
+    <string name="credit">Test app by Naveen Luke</string>
 </resources>
