@@ -2,4 +2,6 @@
     <string name="app_name">Xylophone</string>
     <string name="splash_name">සයිලොෆෝනය </string>
     <string name="credit">Test app by Naveen Luke</string>
+    <string name="ver">Version 1.0</string>
+    <string name="splash_credit">Designed by Luke </string>
 </resources>

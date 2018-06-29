@@ -8,7 +8,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static int SPLASH_TIME=1500;
+    private static int SPLASH_TIME=4000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
