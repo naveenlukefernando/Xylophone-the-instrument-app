@@ -4,4 +4,12 @@
     <string name="credit">Test app by Naveen Luke</string>
     <string name="ver">Version 1.0</string>
     <string name="splash_credit">Designed by Luke </string>
+    <string name="codeE">E</string>
+    <string name="codeD">D</string>
+    <string name="codeC">C</string>
+    <string name="codeF">F</string>
+    <string name="codeG">G</string>
+    <string name="codeA">A</string>
+    <string name="codeB">B</string>
+    <string name="codeCL">C</string>
 </resources>
