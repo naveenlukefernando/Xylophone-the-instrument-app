@@ -13,6 +13,7 @@
         android:id="@+id/playC"
         android:layout_width="50dp"
         android:layout_height="340dp"
+        android:onClick="playC"
 
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="10dp"
@@ -35,7 +36,7 @@
         android:id="@+id/playD"
         android:layout_width="50dp"
         android:layout_height="320dp"
-
+        android:onClick="playD"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="10dp"
         android:layout_marginLeft="10dp"
@@ -57,7 +58,7 @@
         android:id="@+id/playE"
         android:layout_width="50dp"
         android:layout_height="300dp"
-
+        android:onClick="playE"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="10dp"
         android:layout_marginLeft="10dp"
@@ -78,7 +79,7 @@
         android:id="@+id/playF"
         android:layout_width="50dp"
         android:layout_height="280dp"
-
+        android:onClick="playF"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="10dp"
         android:layout_marginLeft="10dp"
@@ -99,7 +100,7 @@
         android:id="@+id/playG"
         android:layout_width="50dp"
         android:layout_height="260dp"
-
+        android:onClick="playG"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="10dp"
         android:layout_marginLeft="10dp"
@@ -120,7 +121,7 @@
         android:id="@+id/playA"
         android:layout_width="50dp"
         android:layout_height="240dp"
-
+        android:onClick="playA"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="10dp"
         android:layout_marginLeft="10dp"
@@ -141,7 +142,7 @@
         android:id="@+id/playB"
         android:layout_width="50dp"
         android:layout_height="220dp"
-
+        android:onClick="playB"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="10dp"
         android:layout_marginLeft="10dp"
@@ -162,7 +163,7 @@
         android:id="@+id/play_last_C"
         android:layout_width="50dp"
         android:layout_height="200dp"
-
+        android:onClick="playCL"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="15dp"
         android:layout_marginLeft="10dp"
